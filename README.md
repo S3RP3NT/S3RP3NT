@@ -1,4 +1,4 @@
-<p align="right">![](https://komarev.com/ghpvc/?username=S3RP3NT&color=red)</p>
+![](https://komarev.com/ghpvc/?username=S3RP3NT&color=red)
 
 ## Hi there 
 
