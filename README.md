@@ -23,7 +23,7 @@ Hi, I'm Siddharth Priyadarshi pre-final year IT student at BIT Mesra
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=S3RP3NT&show_icons=true&line_height=27&theme=material-palenight&layout=compact" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=S3RP3NT&show_icons=true&line_height=27&theme=material-palenight&border-radius=40" alt="My github stats" />
 </a>  
 <!--
 **S3RP3NT/S3RP3NT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
