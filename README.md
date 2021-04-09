@@ -1,4 +1,5 @@
-## <p>Hi there</p> <p align="right">![](https://komarev.com/ghpvc/?username=S3RP3NT&color=red)</p>
+<p align="right">![](https://komarev.com/ghpvc/?username=S3RP3NT&color=red)</p>
+## Hi there 
 
 I'm Siddharth Priyadarshi pre-final year IT student at BIT Mesra
 <br><br>
