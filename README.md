@@ -10,7 +10,7 @@ Hi, I'm Siddharth Priyadarshi pre-final year IT student at BIT Mesra
 
 <a href="https://github.com/S3RP3NT/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=S3RP3NT&theme=material-palenight&hide=jupyter notebook&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=S3RP3NT&langs_count=10&theme=material-palenight&hide=jupyter notebook&layout=compact" />
 </a>
 
 ### Version Control
